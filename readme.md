@@ -1,6 +1,13 @@
 
 # Luckora 🎲
 
+## Live Website
+
+Try Luckora here:
+
+[🎲 Play Luckora](https://luckora-psi.vercel.app/)
+
+
 A simple dice roller website built using HTML, CSS, and JavaScript.
 
 Luckora lets you roll one or two dice, check your results, and keep track of your previous rolls. I built this project while learning frontend development and practicing JavaScript.
